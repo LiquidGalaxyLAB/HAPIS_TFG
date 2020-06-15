@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999965665881",
+    "firebase_url": "https://tfg-hapis.firebaseio.com",
+    "project_id": "tfg-hapis",
+    "storage_bucket": "tfg-hapis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999965665881:android:20a11c27cc3ce119e6df48",
+        "android_client_info": {
+          "package_name": "mihaela.claudia.diosan.hapis_tfg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999965665881-av71o8sr3pm6r1n49l4njamonppg9gi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mihaela.claudia.diosan.hapis_tfg",
+            "certificate_hash": "e301cd8ba8646f1f2788ac74cf26436ec720cd41"
+          }
+        },
+        {
+          "client_id": "999965665881-be5d8ajgemtaf2550l037f78h7hdpme6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARlYAY9NyC7AqLejSO1xSXUVWRr_EKVWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999965665881-be5d8ajgemtaf2550l037f78h7hdpme6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
